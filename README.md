@@ -3,7 +3,7 @@
 Bypass TikTok SSL pinning on Android devices.
 Works on the latest TikTok version.
 Latest version 
-<video src="25-10-2025.mp4"></video>
+<video src="2025-10-25.mp4"></video>
 old version 
 ![Screenshot](pic2_3.JPG)
 
